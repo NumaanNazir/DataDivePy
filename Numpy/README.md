@@ -1,0 +1,1 @@
+ Numerical Python, is a powerful open-source library in Python for numerical computing. It provides support for large, multi-dimensional arrays and matrices, along with an extensive collection of high-level mathematical functions to operate on these arrays.
